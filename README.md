@@ -28,6 +28,8 @@ More detailed documentation is available on the [github wiki page](https://githu
 13. GR-IX
 14. TREX
 15. [SFMIX](http://sfmix.org/participants.json)
+16. [NIX.CZ](http://nix.cz/networks.json)
+17. [NIX.SK](http://nix.sk/networks.json) 
 
 ## Contact
 Please send feedback to: 
